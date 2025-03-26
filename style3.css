@@ -1,0 +1,39 @@
+div{
+
+width: 250px;
+border: 10px solid goldenrod;
+margin: 100px;
+padding: 50px;
+background-color: aquamarine;
+
+
+}
+
+h1{
+color: brown;
+letter-spacing: 20px;
+word-spacing: 30px;
+}
+
+p{
+    text-indent: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+h2{
+    text-decoration: overline;
+}
+
+h3{
+    text-decoration: line-through;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
