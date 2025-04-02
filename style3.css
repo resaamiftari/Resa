@@ -37,3 +37,19 @@ h4{
 a{
     text-decoration: none;
 }
+
+.paragraf{
+    text-indent: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+}
+.klasa{
+    background-color: aquamarine;
+}
+#paragraf{text-indent: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 10px;
+}
+
