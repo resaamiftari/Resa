@@ -1,0 +1,62 @@
+/* article p{
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+article > p{
+    background-color: red;
+}
+
+article ~ p{
+    background-color: purple;
+    color: white;
+    padding: 20px;
+}
+
+article + p{
+    background-color: orange;
+} */
+
+/* h3:first-child{
+    background-color: blue;
+} */
+
+/* input:in-range{
+   border: 10px solid green;
+}
+
+input:out-of-range{
+    border: 10px solid red;
+} */
+
+/* input:required{
+    background-color: bisque;
+} */
+
+/* input:focus{
+    background-color: antiquewhite;
+} */
+
+/* span:first-of-type{
+    background-color: black;
+    color: white;
+    padding: 20px;
+} */
+
+/* input:invalid{
+    border: 2px solid red;
+}
+
+input:valid{
+    border: 2px solid green;
+} */
+
+input::first-line{
+    color: blue;
+}
+
+input::first-letter{
+    font-size: 10px;
+}
+
