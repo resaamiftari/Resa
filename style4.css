@@ -1,0 +1,49 @@
+div#static{
+    position: static;
+    border: 4px solid darkcyan;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+}
+
+div#relative{
+    position: relative;
+    border: 4px solid darkcyan;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    left: 200px;
+    top: 20px;
+}
+
+div#fixed{
+    position: fixed;
+    border: 4px solid darkcyan;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+    right: 200px;
+    top: 100px;
+}
+
+#h1fixed{
+    position: fixed;
+    right: 200px;
+    top: 100px;
+}
+
+div#parent{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    border: 3px solid darkblue;
+}
+
+div#absolute{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    right: 80px;
+    top: 70px;
+}
