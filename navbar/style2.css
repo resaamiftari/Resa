@@ -1,0 +1,27 @@
+#vertical-menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+#vertical-menu li a{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+#vertical-menu li a.active{
+    background-color: aquamarine;
+    color: white;
+}
+
+#vertical-menu li a:hover:not(.active){
+    background-color: #555;
+    color: white;
+}
